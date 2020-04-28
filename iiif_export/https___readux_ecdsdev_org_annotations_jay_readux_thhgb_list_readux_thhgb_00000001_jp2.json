@@ -1,0 +1,182 @@
+{
+    "@id": "https://readux.ecdsdev.org/annotations/jay/readux:thhgb/list/readux:thhgb_00000001.jp2",
+    "@type": "sc:AnnotationList",
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "resources": [
+        {
+            "annotatedBy": {
+                "name": "Jay Varner"
+            },
+            "on": {
+                "full": "https://readux.ecdsdev.org/iiif/v2/readux:thhgb/canvas/readux:thhgb_00000001.jp2",
+                "selector": {
+                    "item": {
+                        "@type": "oa:Choice",
+                        "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M5180.10825,3564.94845c105.25086,0 210.50172,0 315.75258,0c50.92784,0 102.20449,-5.95047 152.78351,0c18.15842,2.13628 32.9391,17.10045 50.92784,20.37113c20.04255,3.6441 41.01944,-3.34899 61.1134,0c21.1809,3.53015 40.28147,15.16315 61.1134,20.37113c20.03551,5.00888 40.99015,5.54174 61.1134,10.18557c24.08437,5.55793 47.31962,14.3763 71.29897,20.37113c16.79524,4.19881 34.1326,5.98676 50.92784,10.18557c23.11929,5.77982 62.79168,23.54688 81.48454,30.5567c24.98652,9.36994 59.61191,17.43312 81.48454,30.5567c2.91135,1.74681 -2.82497,8.30226 0,10.18557c8.93333,5.95556 20.95366,5.38404 30.5567,10.18557c10.94916,5.47458 20.76348,13.02622 30.5567,20.37113c3.84122,2.88091 6.19046,7.52216 10.18557,10.18557c6.31682,4.21121 14.05431,5.97435 20.37113,10.18557c11.98532,7.99022 19.03305,21.91396 30.5567,30.5567c6.0735,4.55512 14.44288,5.44296 20.37113,10.18557c11.24808,8.99846 21.55824,19.30862 30.5567,30.5567c4.74261,5.92826 5.97435,14.05431 10.18557,20.37113c2.66341,3.99511 7.18608,6.43621 10.18557,10.18557c10.60479,13.25599 19.95191,27.48628 30.5567,40.74227c2.99949,3.74936 7.30465,6.34435 10.18557,10.18557c14.68983,19.58644 27.16151,40.74227 40.74227,61.1134c13.58076,20.37113 28.14584,40.11935 40.74227,61.1134c0,0 20.37113,40.74227 20.37113,40.74227c9.82215,17.18877 17.67286,35.89669 30.5567,50.92784c7.96668,9.29446 23.21178,10.57791 30.5567,20.37113c4.07423,5.4323 -2.52188,14.06643 0,20.37113c4.54639,11.36597 14.89656,19.60755 20.37113,30.5567c4.80152,9.60304 6.41572,20.50377 10.18557,30.5567c6.41982,17.11952 12.19444,34.57444 20.37113,50.92784c5.47458,10.94916 17.00813,18.78618 20.37113,30.5567c3.73092,13.05822 -1.68449,27.26638 0,40.74227c1.73633,13.89062 7.88419,26.93401 10.18557,40.74227c1.11633,6.69799 0,13.58076 0,20.37113c0,23.76632 0,47.53265 0,71.29897c0,30.5567 0,61.1134 0,91.6701c0,16.97595 2.10561,34.08298 0,50.92784c-1.3317,10.65362 -7.23602,20.23327 -10.18557,30.5567c-14.11484,49.40195 -25.12287,97.43926 -50.92784,142.59794c-6.0735,10.62862 -13.58076,20.37113 -20.37113,30.5567c-6.79038,10.18557 -12.5343,21.1525 -20.37113,30.5567c-9.22158,11.06589 -21.33512,19.49081 -30.5567,30.5567c0,0 -40.74227,61.1134 -40.74227,61.1134c-5.99897,7.49872 -13.58076,13.58076 -20.37113,20.37113c-10.18557,10.18557 -20.37113,20.37113 -30.5567,30.5567c-3.39519,3.39519 -6.19046,7.52216 -10.18557,10.18557c-9.93887,6.62591 -66.29179,38.26721 -81.48454,50.92784c-11.06589,9.22158 -18.83522,22.18422 -30.5567,30.5567c-32.93731,23.52665 -55.73502,20.77833 -91.6701,40.74227c-14.83965,8.24425 -25.22945,23.66212 -40.74227,30.5567c-15.82003,7.03112 -34.34582,5.21096 -50.92784,10.18557c-17.51256,5.25377 -33.41527,15.11737 -50.92784,20.37113c-16.58202,4.97461 -34.22571,5.63044 -50.92784,10.18557c-20.71643,5.64994 -40.39697,14.7212 -61.1134,20.37113c-22.37052,6.10105 -92.07615,17.04362 -112.04124,20.37113c-67.36589,11.22765 -135.50906,25.68511 -203.71134,30.5567c-40.63873,2.90277 -81.48454,0 -122.2268,0c-50.92784,0 -101.85567,0 -152.78351,0c-54.32302,0 -108.76637,3.61351 -162.96907,0c-23.95444,-1.59696 -47.57053,-6.53504 -71.29897,-10.18557c-20.41198,-3.1403 -41.07789,-5.17669 -61.1134,-10.18557c-20.83193,-5.20798 -40.28147,-15.16315 -61.1134,-20.37113c-20.03551,-5.00888 -41.18898,-4.75163 -61.1134,-10.18557c-17.91231,-4.88517 -58.8236,-26.02451 -81.48454,-30.5567c-23.5414,-4.70828 -48.13729,-3.86875 -71.29897,-10.18557c-14.80892,-4.0388 -57.84425,-29.53 -71.29897,-40.74227c-11.06589,-9.22158 -19.49081,-21.33512 -30.5567,-30.5567c-9.4042,-7.83684 -21.90063,-11.71507 -30.5567,-20.37113c-5.36827,-5.36827 -4.8173,-15.00287 -10.18557,-20.37113c-12.00381,-12.00381 -27.48628,-19.95191 -40.74227,-30.5567c-3.74936,-2.99949 -8.03826,-5.89095 -10.18557,-10.18557c-9.60304,-19.20609 -12.83144,-41.00755 -20.37113,-61.1134c-6.41982,-17.11952 -13.16885,-34.12251 -20.37113,-50.92784c-2.99059,-6.97803 -8.53866,-12.96005 -10.18557,-20.37113c-10.21676,-45.97544 -10.18557,-86.57775 -10.18557,-132.41237c0,-54.32302 0,-108.64605 0,-162.96907c0,-78.08935 0,-156.17869 0,-234.26804c0,-16.97595 0,-33.95189 0,-50.92784c0,-10.18557 -1.44046,-20.4735 0,-30.5567c1.97972,-13.85803 8.20585,-26.88424 10.18557,-40.74227c1.44046,-10.0832 -3.78282,-21.09964 0,-30.5567c3.56648,-8.9162 14.60931,-12.6887 20.37113,-20.37113c9.11025,-12.147 12.55916,-27.72231 20.37113,-40.74227c6.29821,-10.49702 14.89656,-19.60755 20.37113,-30.5567c1.51837,-3.03675 -1.88331,-7.3606 0,-10.18557c10.65362,-15.98043 27.16151,-27.16151 40.74227,-40.74227c16.77189,-16.77189 32.02233,-36.7487 50.92784,-50.92784c9.79322,-7.34492 19.60755,-14.89656 30.5567,-20.37113c3.03675,-1.51837 7.3606,1.88331 10.18557,0c7.99022,-5.32681 12.6887,-14.60931 20.37113,-20.37113c6.0735,-4.55512 14.29764,-5.63044 20.37113,-10.18557c17.04901,-12.78676 35.85164,-35.85164 50.92784,-50.92784c3.39519,-3.39519 5.89095,-8.03826 10.18557,-10.18557c3.03675,-1.51837 6.96461,1.07365 10.18557,0c7.20228,-2.40076 14.05431,-5.97435 20.37113,-10.18557c3.99511,-2.66341 6.19046,-7.52216 10.18557,-10.18557c6.31682,-4.21121 13.16885,-7.78481 20.37113,-10.18557c3.22096,-1.07365 7.14882,1.51837 10.18557,0c23.24459,-11.6223 28.05985,-22.93404 50.92784,-30.5567c3.22096,-1.07365 6.96461,1.07365 10.18557,0c7.20228,-2.40076 14.05431,-5.97435 20.37113,-10.18557c3.99511,-2.66341 5.89095,-8.03826 10.18557,-10.18557c3.03675,-1.51837 7.14882,1.51837 10.18557,0c4.29461,-2.14731 5.63044,-8.66719 10.18557,-10.18557c6.44192,-2.14731 13.92922,2.14731 20.37113,0c4.55512,-1.51837 5.89095,-8.03826 10.18557,-10.18557c3.03675,-1.51837 7.14882,1.51837 10.18557,0c4.29461,-2.14731 6.19046,-7.52216 10.18557,-10.18557c6.31682,-4.21121 13.16885,-7.78481 20.37113,-10.18557c3.22096,-1.07365 7.14882,1.51837 10.18557,0c8.58922,-4.29461 11.78191,-16.07652 20.37113,-20.37113c3.03675,-1.51837 7.14882,1.51837 10.18557,0c4.29461,-2.14731 8.03826,-5.89095 10.18557,-10.18557c1.51837,-3.03675 -2.40076,-7.78481 0,-10.18557c2.40076,-2.40076 7.14882,1.51837 10.18557,0c4.29461,-2.14731 8.03826,-5.89095 10.18557,-10.18557c1.51837,-3.03675 -2.40076,-7.78481 0,-10.18557c2.40076,-2.40076 7.78481,2.40076 10.18557,0c1.91803,-1.91803 -1.91803,-28.63867 0,-30.5567c2.40076,-2.40076 7.78481,2.40076 10.18557,0c4.80152,-4.80152 -4.80152,-15.56961 0,-20.37113c2.40076,-2.40076 7.78481,2.40076 10.18557,0c0.32757,-0.32757 0,-28.08643 0,-30.5567c0,-23.76632 0,-47.53265 0,-71.29897c0,-10.18557 0,-20.37113 0,-30.5567c0,-3.39519 2.40076,-7.78481 0,-10.18557c-2.40076,-2.40076 -6.79038,0 -10.18557,0\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;deleteIcon&quot;:null,&quot;newlyCreatedStrokeFactor&quot;:5,&quot;newlyCreated&quot;:true,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"smooth_path_8d99f82d-3fed-48f1-b590-8635d3ee1e60\" fill=\"none\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"5\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>",
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=4538,3544,2110,1744"
+                        }
+                    },
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=4538,3544,2110,1744"
+                },
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/readux:thhgb/manifest",
+                    "@type": "sc:Manifest"
+                }
+            },
+            "resource": {
+                "chars": "<p>A polygon</p>",
+                "language": "en",
+                "@type": "dctypes:Text",
+                "format": "text/html"
+            },
+            "@id": "7cb4ec36-3b91-43a4-af03-76974ca94eb5",
+            "@type": "oa:Annotation",
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "motivation": "oa:commenting"
+        },
+        {
+            "annotatedBy": {
+                "name": "Jay Varner"
+            },
+            "on": {
+                "full": "https://readux.ecdsdev.org/iiif/v2/readux:thhgb/canvas/readux:thhgb_00000001.jp2",
+                "selector": {
+                    "item": {
+                        "@type": "oa:Choice",
+                        "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1633.53093,6313.05155h1039.92784v0h1039.92784v790.38144v790.38144h-1039.92784h-1039.92784v-790.38144z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;newlyCreatedStrokeFactor&quot;:5,&quot;newlyCreated&quot;:true,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_2e585ce4-64f8-41ff-a9cb-9e311c1d19ba\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"5\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>",
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=1634,6313,2080,1581"
+                        }
+                    },
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1634,6313,2080,1581"
+                },
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/readux:thhgb/manifest",
+                    "@type": "sc:Manifest"
+                }
+            },
+            "resource": {
+                "chars": "<p>A box</p>",
+                "language": "en",
+                "@type": "dctypes:Text",
+                "format": "text/html"
+            },
+            "@id": "2825ec37-5cdc-40eb-a439-2660f4a95192",
+            "@type": "oa:Annotation",
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "motivation": "oa:commenting"
+        },
+        {
+            "annotatedBy": {
+                "name": "Jay Varner"
+            },
+            "on": {
+                "full": "https://readux.ecdsdev.org/iiif/v2/readux:thhgb/canvas/readux:thhgb_00000001.jp2",
+                "selector": {
+                    "item": {
+                        "@type": "oa:Choice",
+                        "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1203.95097,2566.72027c218.67152,-171.78683 527.14312,-299.71066 837.10957,-299.55783v0v0c309.96645,0.15284 579.99922,119.82352 837.10957,299.55783c257.11035,179.73431 357.04588,453.61469 346.74214,723.19657c-10.30374,269.58187 -130.84676,534.86523 -346.74214,723.19657c-215.89538,188.33134 -527.14312,299.71066 -837.10957,299.55783c-309.96645,-0.15284 -618.6516,-111.83783 -837.10957,-299.55783c-218.45797,-187.71999 -346.68875,-451.47499 -346.74214,-723.19657c-0.05339,-271.72158 128.07062,-551.40974 346.74214,-723.19657z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;newlyCreatedStrokeFactor&quot;:5,&quot;newlyCreated&quot;:true,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_62f09ed1-86a6-46c9-9e2f-e1350f15a3fb\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"5\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>",
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=857,2267,2368,2046"
+                        }
+                    },
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=857,2267,2368,2046"
+                },
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/readux:thhgb/manifest",
+                    "@type": "sc:Manifest"
+                }
+            },
+            "resource": {
+                "chars": "<p>Circle</p>",
+                "language": "en",
+                "@type": "dctypes:Text",
+                "format": "text/html"
+            },
+            "@id": "2d944d86-9f1d-48be-b86b-df0cb9f48c74",
+            "@type": "oa:Annotation",
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "motivation": "oa:commenting"
+        },
+        {
+            "annotatedBy": {
+                "name": "Jay Varner"
+            },
+            "on": {
+                "full": "https://readux.ecdsdev.org/iiif/v2/readux:thhgb/canvas/readux:thhgb_00000001.jp2",
+                "selector": {
+                    "item": {
+                        "@type": "oa:Choice",
+                        "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M6830.1701,8810.51546l733.36082,-2383.42268l-30.5567,10.18557v0v0l-733.36082,2342.68041l20.37113,-30.5567\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;newlyCreatedStrokeFactor&quot;:5,&quot;newlyCreated&quot;:true,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"rough_path_8d910e4e-7e1a-4313-8c1d-4820ac0beca7\" fill=\"none\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"5\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>",
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=6800,6427,764,2383"
+                        }
+                    },
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=6800,6427,764,2383"
+                },
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/readux:thhgb/manifest",
+                    "@type": "sc:Manifest"
+                }
+            },
+            "resource": {
+                "chars": "<p>Line</p>",
+                "language": "en",
+                "@type": "dctypes:Text",
+                "format": "text/html"
+            },
+            "@id": "7c12a522-f895-4c06-ac6c-91ec4a7a60a2",
+            "@type": "oa:Annotation",
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "motivation": "oa:commenting"
+        },
+        {
+            "annotatedBy": {
+                "name": "Jay Varner"
+            },
+            "on": {
+                "full": "https://readux.ecdsdev.org/iiif/v2/readux:thhgb/canvas/readux:thhgb_00000001.jp2",
+                "selector": {
+                    "item": {
+                        "@type": "oa:Choice",
+                        "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M5210.66495,7425.27835c0,-33.95189 16.97595,-67.90378 50.92784,-101.85567c0,-28.12667 -22.80117,-50.92784 -50.92784,-50.92784c-28.12667,0 -50.92784,22.80117 -50.92784,50.92784c33.95189,33.95189 50.92784,67.90378 50.92784,101.85567z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;fixedSize&quot;:true,&quot;newlyCreatedStrokeFactor&quot;:5,&quot;newlyCreated&quot;:true,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"pin_bbdf5e3d-6d22-4a3c-9687-52506760a822\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"5\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>",
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=5160,7272,102,153"
+                        }
+                    },
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=5160,7272,102,153"
+                },
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/readux:thhgb/manifest",
+                    "@type": "sc:Manifest"
+                }
+            },
+            "resource": {
+                "chars": "<p>Marker</p>",
+                "language": "en",
+                "@type": "dctypes:Text",
+                "format": "text/html"
+            },
+            "@id": "b5fc560a-9175-4705-a8e3-22561931338e",
+            "@type": "oa:Annotation",
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "motivation": "oa:commenting"
+        }
+    ]
+}
